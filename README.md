@@ -27,6 +27,7 @@ Das Video zum Projekt auf [Youtube](https://www.youtube.com/watch?v=gNy93Js-2-Q)
 
 ## Aktueller Stand
 Wir haben in den 48 zur Verfügung stehenden Stunden eine fertige Lösung entwickelt und getestet. Diese ist bereits vollständig nutzbar.
+
 [Hier](https://digitale-warteschlange.beckbauer.de) ist eine Demo der Lösung zu finden. 
 
 ### Features in der aktuellen Version
