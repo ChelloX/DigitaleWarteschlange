@@ -13,6 +13,8 @@ Gemeinsam mit der Bundesregierung schaffen wir den digitalen Beteiligungsprozess
 
 Wir haben uns mit der Reduzierung der Ausbreitung des Corona-Viruses beschäftigt. Ein Aspekt hier ist das Warten in Warteschlangen. Sei es beim Arzt oder im Supermarkt. Es entstehen in letzer Zeit immer mehr und längere Schlangen.
 
+## [Demo](https://digitale-warteschlange.beckbauer.de)
+
 ## Unsere Lösungen
 
 Wir haben auf Basis von einfachsten Webtechnologien eine digitale Warteschlange geschaffen.
@@ -26,8 +28,7 @@ Wir haben auf Basis von einfachsten Webtechnologien eine digitale Warteschlange 
 Das Video zum Projekt auf [Youtube](https://www.youtube.com/watch?v=gNy93Js-2-Q)
 
 ## Aktueller Stand
-Wir haben in den 48 zur Verfügung stehenden Stunden eine fertige Lösung entwickelt und getestet. Diese ist bereits vollständig nutzbar.
-[Hier](https://digitale-warteschlange.beckbauer.de) ist eine Demo der Lösung zu finden. 
+Wir haben in den 48 zur Verfügung stehenden Stunden eine fertige Lösung entwickelt und getestet. Diese ist bereits vollständig nutzbar. Wir geben auf Anfrage gerne eine Demo.
 
 ### Features in der aktuellen Version
 Kundensicht
